@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "order_jwtPrivateKey",
+    "url": "product_url"
+}

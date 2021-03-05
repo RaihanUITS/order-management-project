@@ -1,0 +1,24 @@
+{
+  "name": "order-management-project",
+  "version": "1.0.0",
+  "description": "A order management project using Node.Js",
+  "main": "app.js",
+  "scripts": {
+    "watch": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RaihanBS",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.11.18",
+    "nodemon": "^2.0.7"
+  }
+}
