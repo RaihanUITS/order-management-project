@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const Joi = require('joi');
 
-/*Schema of the Prodcut Collection*/
+/*Schema of the Product Collection*/
 const productSchema = new mongoose.Schema({
     title: {
         type: String, 
